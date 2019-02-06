@@ -1,37 +1,4 @@
-/*************************************************************************
- *
- *  Pace University
- *  Fall 2018
- *  Data Structures and Algorithms
- *
- *  Course: CS 241
- *  Team members: Elly
- *  Collaborators: NONE
- *  References: NONE
- *
- *  Assignment: #2
- *  Problem: Write a program using queues
- *  Description: I created a Queue class using the basic methods we discussed in class and then
- *  made a test class to implement the methods
- *
- *  Input:
- *   N/A
- *  Output:
- *  N/A
- *
- *  Visible data fields:
- *  - Queue main
- *  - Scanner scan
- *
- *  Visible methods:
- *  ?
- *
- *
- *   Remarks
- *   
- *
- *
- *************************************************************************/
+//QueueTest
 import java.util.*;
 
 public class QueueTest {
